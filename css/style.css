@@ -1,0 +1,53 @@
+h1 {
+ color: rgb(41, 180, 214);
+ text-align: block;
+    
+}
+.contanier {
+   display: flex;
+   width:980px;
+margin:auto;
+
+}
+.second-section {
+   background-color:rgb(16, 116, 149); 
+   width: 350px;
+   padding: 20px 20px;
+   color: white;
+}
+
+.contact {
+  margin-top: 25px; 
+  text-align: center;
+
+}
+.together {
+  display: flex; 
+  justify-content: space-between;
+}
+h4 {
+   margin-right:20px ;
+}
+.skill {
+   padding-top: 50px;
+   text-align: center;
+}
+img {
+   margin-left: 50px;
+  border-radius: 50%; 
+  padding-bottom:25px ;
+  
+}
+.EDUCATION {
+   color: rgb(41, 180, 214);
+}
+a:hover{
+   color:black;
+}
+a {
+ text-decoration: none;
+  color: white;
+}
+.photo-title{
+   padding-top: 25px;
+}
